@@ -1,4 +1,4 @@
-# Data-Analysis-using-SQL
+# Data-Analysis-using-SQL .
 
 
 Over the past 18 months, an emerging technology has caught the attention of the world; the NFT. What is an NFT? They are digital assets stored on the blockchain. And over $22 billion was spent last year on purchasing NFTs. Why? People enjoyed the art, the speculated on what they might be worth in the future, and people didn’t want to miss out. 
